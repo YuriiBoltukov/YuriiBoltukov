@@ -2,7 +2,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+
 <img src="https://komarev.com/ghpvc/?username=YuriiBoltukov&style=flat-square&color=blue" alt=""/>
+
+
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -36,6 +40,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuriiBoltukov&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j&locale=ru)](https://git.io/streak-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiBoltukov)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
