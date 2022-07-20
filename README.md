@@ -86,5 +86,5 @@ Result of [Epam-quiz] is 41%
 [Portfolio]: https://rolling-scopes-school.github.io/yuriiboltukov-JSFEPRESCHOOL/portfolio/
 [Eco-sounds]: https://rolling-scopes-school.github.io/yuriiboltukov-JSFEPRESCHOOL/js30-eco-sounds/
 [Movie-app]: https://rolling-scopes-school.github.io/yuriiboltukov-JSFEPRESCHOOL/movie-app/
-[tic-tac-toe]: https://github.com/rolling-scopes-school/yuriiboltukov-JSFEPRESCHOOL/tree/tic-tac-toe
+[tic-tac-toe]: https://tic-tac-toe89.netlify.app
 [Epam-quiz]: https://www.qzzr.com/c/quiz/477824/quick-english-grammar-quiz-copy
