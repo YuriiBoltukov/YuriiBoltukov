@@ -1,21 +1,20 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-
 <img src="https://komarev.com/ghpvc/?username=YuriiBoltukov&style=flat-square&color=blue" alt=""/>
 
 
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Yurii Boltukov
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-### :man_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+### My contacts
+* tel: +7 966 749 05 02
+* e-mail: mr.kolomiha@bk.ru
+* telegram: @YuriiBol
+* whatsApp: +7 966 749 05 02
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiBoltukov)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -32,16 +31,60 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuriiBoltukov&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j&locale=ru)](https://git.io/streak-stats)
+### My Projects
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiBoltukov)](https://github.com/anuraghazra/github-readme-stats)
+1. [Portfolio]
+2. [Eco-sounds]
+3. [Movie-app]
+4. [tic-tac-toe]
 
 ---
 
-### :writing_hand: Blog Posts :
+### Examples of my code
 
-<!-- BLOG-POST-LIST:START -->
+```
 
-<!-- BLOG-POST-LIST:END -->
+function bingo(ticket, win){
+  const miniWinCount = ticket.reduce((count, itemArr) => {
+    return itemArr[0].split('').map(letter => 
+        letter.charCodeAt(0)).includes(itemArr[1]) ? ++count : count;
+  }, 0);
+  
+  return miniWinCount >= win ? 'Winner!' : 'Loser!';
+}
+
+```
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuriiBoltukov&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j&locale=en)](https://git.io/streak-stats)
+
+---
+
+### Experience:
+
+#### I have nothing experience. But now I am finding a job as frontend developer.
+
+---
+
+### My education
+
+Educational institution                         | Course                              | Completed year
+------------------------------------------------|:------------------------------------|:--------------: 
+Krasnodar College of Electronic Instrumentation | Information systems and programming | 2023
+RSSchool                                        |   JS/FE Pre-School                  | 2022
+Chelyabinsk State Academy of Culture and Arts   | Culturology                         | 2008
+
+### My English level elementary
+
+Result of [Epam-quiz] is 41%
+
+---
+
+
+[Portfolio]: https://rolling-scopes-school.github.io/yuriiboltukov-JSFEPRESCHOOL/portfolio/
+[Eco-sounds]: https://rolling-scopes-school.github.io/yuriiboltukov-JSFEPRESCHOOL/js30-eco-sounds/
+[Movie-app]: https://rolling-scopes-school.github.io/yuriiboltukov-JSFEPRESCHOOL/movie-app/
+[tic-tac-toe]: https://github.com/rolling-scopes-school/yuriiboltukov-JSFEPRESCHOOL/tree/tic-tac-toe
+[Epam-quiz]: https://www.qzzr.com/c/quiz/477824/quick-english-grammar-quiz-copy
