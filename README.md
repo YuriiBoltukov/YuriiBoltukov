@@ -37,6 +37,7 @@ Yurii Boltukov
 2. [Eco-sounds]
 3. [Movie-app]
 4. [tic-tac-toe]
+5. [Slider]
 
 ---
 
@@ -87,4 +88,6 @@ Result of [Epam-quiz] is 41%
 [Eco-sounds]: https://rolling-scopes-school.github.io/yuriiboltukov-JSFEPRESCHOOL/js30-eco-sounds/
 [Movie-app]: https://rolling-scopes-school.github.io/yuriiboltukov-JSFEPRESCHOOL/movie-app/
 [tic-tac-toe]: https://tic-tac-toe89.netlify.app
+[Slider]: https://slider-test-21-07-22.netlify.app/
 [Epam-quiz]: https://www.qzzr.com/c/quiz/477824/quick-english-grammar-quiz-copy
+
