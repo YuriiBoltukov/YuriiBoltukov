@@ -34,12 +34,12 @@ Yurii Boltukov
 ### My Projects
 
 Project       | Technology                                   | Comment
---------------|:---------------------------------------------|:--------------: 
-[Portfolio]   | JavaScript (Vanilla JS), HTML, CSS           |
+--------------|:---------------------------------------------|:--------------:
+[tic-tac-toe] | JavaScript (Vanilla JS), Canvas, HTML, CSS   |
 [Eco-sounds]  | JavaScript (Vanilla JS), HTML, CSS           |
 [Movie-app]   | JavaScript (Vanilla JS), Rest API, HTML, CSS | Please use VPN for the application to work correctly
-[tic-tac-toe] | JavaScript (Vanilla JS), Canvas, HTML, CSS   |
 [Slider]      | JavaScript (Vanilla JS), HTML, CSS           |
+[Portfolio]   | JavaScript (Vanilla JS), HTML, CSS           |
 
 ---
 
