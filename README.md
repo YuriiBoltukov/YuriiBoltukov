@@ -1,5 +1,5 @@
 
-<img src="https://komarev.com/ghpvc/?username=YuriiBoltukov&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=YuriiBoltukov&style=flat&color=lightgrey" alt="visitors"/>
 
 
 <h1>
@@ -16,11 +16,13 @@ A JavaScript developer. I am currently looking for a job as a frontend developer
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiBoltukov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/YuriiBoltukov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuriiBoltukov&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="YuriiBoltukov's github stats" /></a>
+ <a href="https://github.com/YuriiBoltukov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiBoltukov&layout=compact&theme=default&hide_border=true" /></a> 
+
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages & Frameworks & Tools & Abilities :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
