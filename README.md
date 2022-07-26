@@ -33,11 +33,13 @@ Yurii Boltukov
 
 ### My Projects
 
-1. [Portfolio]
-2. [Eco-sounds]
-3. [Movie-app]
-4. [tic-tac-toe]
-5. [Slider]
+Project       | Technology                                   | Comment
+--------------|:---------------------------------------------|:--------------: 
+[Portfolio]   | JavaScript (Vanilla JS), HTML, CSS           |
+[Eco-sounds]  | JavaScript (Vanilla JS), HTML, CSS           |
+[Movie-app]   | JavaScript (Vanilla JS), Rest API, HTML, CSS | Please use VPN for the application to work correctly
+[tic-tac-toe] | JavaScript (Vanilla JS), Canvas, HTML, CSS   |
+[Slider]      | JavaScript (Vanilla JS), HTML, CSS           |
 
 ---
 
