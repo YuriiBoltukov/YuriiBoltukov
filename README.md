@@ -6,6 +6,8 @@
 Yurii Boltukov
 </h1>
 
+A JavaScript developer. I am currently looking for a job as a frontend developer. I love building applications & discussing technology. Contact me in any convenient way if you want to talk ✌️
+
 ### My contacts
 * tel: +7 966 749 05 02
 * e-mail: mr.kolomiha@bk.ru
