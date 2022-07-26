@@ -61,7 +61,7 @@ function bingo(ticket, win){
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuriiBoltukov&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j&locale=en)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuriiboltukov&theme=icegray&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
