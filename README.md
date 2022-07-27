@@ -42,14 +42,14 @@ A JavaScript developer. I am currently looking for a job as a frontend developer
 
 ### My Projects
 
-Project         | Technology                                   | Comment
-----------------|:---------------------------------------------|:--------------:
-[tic-tac-toe]   | JavaScript (Vanilla JS), Canvas, HTML, CSS   |
-[Eco-sounds]    | JavaScript (Vanilla JS), HTML, CSS           |
-[Movie-app]     | JavaScript (Vanilla JS), Rest API, HTML, CSS | Please use VPN for the application to work correctly
-[Slider]        | JavaScript (Vanilla JS), HTML, CSS           |
-[Portfolio]     | JavaScript (Vanilla JS), HTML, CSS           |
-[ToDoReactTest] | React, HTML, CSS                             |
+Project         | Technology                                   | Source                                       | Comment
+----------------|:---------------------------------------------|:---------------------------------------------|:----------------------------------------------------:
+[tic-tac-toe]   | JavaScript (Vanilla JS), Canvas, HTML, CSS   | https://github.com/YuriiBoltukov/tic-tac-toe |
+[Eco-sounds]    | JavaScript (Vanilla JS), HTML, CSS           | https://github.com/YuriiBoltukov/eco-sound   |
+[Movie-app]     | JavaScript (Vanilla JS), Rest API, HTML, CSS | https://github.com/YuriiBoltukov/movie-app   | Please use VPN for the application to work correctly
+[Slider]        | JavaScript (Vanilla JS), HTML, CSS           | https://github.com/YuriiBoltukov/Slider      |
+[Portfolio]     | JavaScript (Vanilla JS), HTML, CSS           | https://github.com/YuriiBoltukov/Portfolio   |
+[ToDoReactTest] | React, HTML, CSS                             | https://github.com/YuriiBoltukov/todo-react  |
 
 ---
 
@@ -96,9 +96,9 @@ Result of [Epam-quiz] is 41%
 ---
 
 
-[Portfolio]: https://rolling-scopes-school.github.io/yuriiboltukov-JSFEPRESCHOOL/portfolio/
-[Eco-sounds]: https://rolling-scopes-school.github.io/yuriiboltukov-JSFEPRESCHOOL/js30-eco-sounds/
-[Movie-app]: https://rolling-scopes-school.github.io/yuriiboltukov-JSFEPRESCHOOL/movie-app/
+[Portfolio]: https://portfolio-27-07.netlify.app/
+[Eco-sounds]: https://eco-sound.netlify.app/
+[Movie-app]: https://movie-app-3.netlify.app/
 [tic-tac-toe]: https://tic-tac-toe89.netlify.app
 [Slider]: https://slider-test-21-07-22.netlify.app/
 [ToDoReactTest]: https://todo-react-27-07-22.netlify.app/
