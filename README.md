@@ -42,13 +42,14 @@ A JavaScript developer. I am currently looking for a job as a frontend developer
 
 ### My Projects
 
-Project       | Technology                                   | Comment
---------------|:---------------------------------------------|:--------------:
-[tic-tac-toe] | JavaScript (Vanilla JS), Canvas, HTML, CSS   |
-[Eco-sounds]  | JavaScript (Vanilla JS), HTML, CSS           |
-[Movie-app]   | JavaScript (Vanilla JS), Rest API, HTML, CSS | Please use VPN for the application to work correctly
-[Slider]      | JavaScript (Vanilla JS), HTML, CSS           |
-[Portfolio]   | JavaScript (Vanilla JS), HTML, CSS           |
+Project         | Technology                                   | Comment
+----------------|:---------------------------------------------|:--------------:
+[tic-tac-toe]   | JavaScript (Vanilla JS), Canvas, HTML, CSS   |
+[Eco-sounds]    | JavaScript (Vanilla JS), HTML, CSS           |
+[Movie-app]     | JavaScript (Vanilla JS), Rest API, HTML, CSS | Please use VPN for the application to work correctly
+[Slider]        | JavaScript (Vanilla JS), HTML, CSS           |
+[Portfolio]     | JavaScript (Vanilla JS), HTML, CSS           |
+[ToDoReactTest] | React, HTML, CSS                             |
 
 ---
 
@@ -100,5 +101,6 @@ Result of [Epam-quiz] is 41%
 [Movie-app]: https://rolling-scopes-school.github.io/yuriiboltukov-JSFEPRESCHOOL/movie-app/
 [tic-tac-toe]: https://tic-tac-toe89.netlify.app
 [Slider]: https://slider-test-21-07-22.netlify.app/
+[ToDoReactTest]: https://todo-react-27-07-22.netlify.app/
 [Epam-quiz]: https://www.qzzr.com/c/quiz/477824/quick-english-grammar-quiz-copy
 
