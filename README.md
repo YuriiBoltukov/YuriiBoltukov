@@ -44,12 +44,13 @@ A JavaScript developer. I am currently looking for a job as a frontend developer
 
 Project         | Technology                                   | Source                                       | Comment
 ----------------|:---------------------------------------------|:---------------------------------------------|:----------------------------------------------------:
-[tic-tac-toe]   | JavaScript (Vanilla JS), Canvas, HTML, CSS   | https://github.com/YuriiBoltukov/tic-tac-toe |
+[to-do-angular] | TypeScript, HTML, CSS, Angular               | https://yuriiboltukov-todo.netlify.app/      |
 [Eco-sounds]    | JavaScript (Vanilla JS), HTML, CSS           | https://github.com/YuriiBoltukov/eco-sound   |
 [Movie-app]     | JavaScript (Vanilla JS), Rest API, HTML, CSS | https://github.com/YuriiBoltukov/movie-app   | Please use VPN for the application to work correctly
 [Slider]        | JavaScript (Vanilla JS), HTML, CSS           | https://github.com/YuriiBoltukov/Slider      |
 [Portfolio]     | JavaScript (Vanilla JS), HTML, CSS           | https://github.com/YuriiBoltukov/Portfolio   |
 [ToDoReactTest] | React, HTML, CSS                             | https://github.com/YuriiBoltukov/todo-react  |
+[tic-tac-toe]   | JavaScript (Vanilla JS), Canvas, HTML, CSS   | https://github.com/YuriiBoltukov/tic-tac-toe |
 
 ---
 
@@ -103,4 +104,4 @@ Result of [Epam-quiz] is 41%
 [Slider]: https://slider-test-21-07-22.netlify.app/
 [ToDoReactTest]: https://todo-react-27-07-22.netlify.app/
 [Epam-quiz]: https://www.qzzr.com/c/quiz/477824/quick-english-grammar-quiz-copy
-
+[to-do-angular]:  https://yuriiboltukov-todo.netlify.app/
