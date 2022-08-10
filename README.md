@@ -44,7 +44,7 @@ A JavaScript developer. I am currently looking for a job as a frontend developer
 
 Project         | Technology                                   | Source                                       | Comment
 ----------------|:---------------------------------------------|:---------------------------------------------|:----------------------------------------------------:
-[to-do-angular] | TypeScript, HTML, CSS, Angular               | https://yuriiboltukov-todo.netlify.app/      |
+[to-do-angular] | Angular, TypeScript, HTML, CSS               | https://yuriiboltukov-todo.netlify.app/      |
 [ToDoReactTest] | React, HTML, CSS                             | https://github.com/YuriiBoltukov/todo-react  |
 [Movie-app]     | JavaScript (Vanilla JS), Rest API, HTML, CSS | https://github.com/YuriiBoltukov/movie-app   | Please use VPN for the application to work correctly
 [Slider]        | JavaScript (Vanilla JS), HTML, CSS           | https://github.com/YuriiBoltukov/Slider      |
