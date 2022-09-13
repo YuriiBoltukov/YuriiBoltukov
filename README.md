@@ -38,6 +38,7 @@ A JavaScript developer. I am currently looking for a job as a frontend developer
 
 Project         | Technology                                   | Source                                       | Comment
 ----------------|:---------------------------------------------|:---------------------------------------------|:----------------------------------------------------:
+[react-shop]    | React, Rest API, HTML, CSS                   | https://github.com/YuriiBoltukov/ReactShop   |
 [to-do-angular] | Angular, TypeScript, HTML, CSS               | https://github.com/YuriiBoltukov/ToDoList    |
 [ToDoReactTest] | React, HTML, CSS                             | https://github.com/YuriiBoltukov/todo-react  |
 [Movie-app]     | JavaScript (Vanilla JS), Rest API, HTML, CSS | https://github.com/YuriiBoltukov/movie-app   | Please use VPN for the application to work correctly
@@ -90,7 +91,7 @@ Result of [Epam-quiz] is 41%
 
 ---
 
-
+[React-Shop]:https://yuriiboltukov.github.io/ReactShop/
 [Portfolio]: https://portfolio-27-07.netlify.app/
 [Eco-sounds]: https://eco-sound.netlify.app/
 [Movie-app]: https://movie-app-3.netlify.app/
