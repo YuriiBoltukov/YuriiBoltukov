@@ -34,26 +34,6 @@ A JavaScript developer. I love building applications & discussing technology. Co
 
 ---
 
-### My Projects
-
-Project         | Technology                                   | Source                                       | Comment
-----------------|:---------------------------------------------|:---------------------------------------------|:----------------------------------------------------:
-[react-shop]    | React, Rest API, HTML, CSS                   | https://github.com/YuriiBoltukov/ReactShop   |
-[to-do-angular] | Angular, TypeScript, HTML, CSS               | https://github.com/YuriiBoltukov/ToDoList    |
-[ToDoReactTest] | React, HTML, CSS                             | https://github.com/YuriiBoltukov/todo-react  |
-[Movie-app]     | JavaScript (Vanilla JS), Rest API, HTML, CSS | https://github.com/YuriiBoltukov/movie-app   | Please use VPN for the application to work correctly
-[Slider]        | JavaScript (Vanilla JS), HTML, CSS           | https://github.com/YuriiBoltukov/Slider      |
-[Portfolio]     | JavaScript (Vanilla JS), HTML, CSS           | https://github.com/YuriiBoltukov/Portfolio   |
-[tic-tac-toe]   | JavaScript (Vanilla JS), Canvas, HTML, CSS   | https://github.com/YuriiBoltukov/tic-tac-toe |
-[Eco-sounds]    | JavaScript (Vanilla JS), HTML, CSS           | https://github.com/YuriiBoltukov/eco-sound   |
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuriiboltukov&theme=icegray&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
----
-
 ### Experience:
 
 #### I have experience as a React developer through an internship.
@@ -75,12 +55,4 @@ Result of [Epam-quiz] is 41%
 
 ---
 
-[React-Shop]:https://yuriiboltukov.github.io/ReactShop/
-[Portfolio]: https://portfolio-27-07.netlify.app/
-[Eco-sounds]: https://eco-sound.netlify.app/
-[Movie-app]: https://movie-app-3.netlify.app/
-[tic-tac-toe]: https://tic-tac-toe89.netlify.app
-[Slider]: https://slider-test-21-07-22.netlify.app/
-[ToDoReactTest]: https://todo-react-27-07-22.netlify.app/
 [Epam-quiz]: https://www.qzzr.com/c/quiz/477824/quick-english-grammar-quiz-copy
-[to-do-angular]:  https://yuriiboltukov-todo.netlify.app/
