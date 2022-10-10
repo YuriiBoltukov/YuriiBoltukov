@@ -6,7 +6,7 @@
 Yurii Boltukov
 </h1>
 
-A JavaScript developer. I am currently looking for a job as a frontend developer. I love building applications & discussing technology. Contact me in any convenient way if you want to talk ✌️
+A JavaScript developer. I love building applications & discussing technology. Contact me in any convenient way if you want to talk ✌️
 
 ### My contacts
 * tel: +7 966 749 05 02
@@ -49,23 +49,6 @@ Project         | Technology                                   | Source         
 
 ---
 
-### Examples of my code
-
-```
-
-function bingo(ticket, win){
-  const miniWinCount = ticket.reduce((count, itemArr) => {
-    return itemArr[0].split('').map(letter => 
-        letter.charCodeAt(0)).includes(itemArr[1]) ? ++count : count;
-  }, 0);
-  
-  return miniWinCount >= win ? 'Winner!' : 'Loser!';
-}
-
-```
-
----
-
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuriiboltukov&theme=icegray&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
@@ -73,7 +56,7 @@ function bingo(ticket, win){
 
 ### Experience:
 
-#### I have nothing experience. But now I am finding a job as frontend developer.
+#### I have experience as a React developer through an internship.
 
 ---
 
@@ -82,6 +65,7 @@ function bingo(ticket, win){
 Educational institution                         | Course                              | Completed year
 ------------------------------------------------|:------------------------------------|:--------------: 
 Krasnodar College of Electronic Instrumentation | Information systems and programming | 2023
+Netology                                        | React                               | 2022
 RSSchool                                        |   JS/FE Pre-School                  | 2022
 Chelyabinsk State Academy of Culture and Arts   | Culturology                         | 2008
 
