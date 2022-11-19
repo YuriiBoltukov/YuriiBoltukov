@@ -2,21 +2,22 @@
 <img src="https://komarev.com/ghpvc/?username=YuriiBoltukov&style=flat&color=lightgrey" alt="visitors"/>
 
 
-<h1>
-Yurii Boltukov
-</h1>
 
-A JavaScript developer. I love building applications & discussing technology. Contact me in any convenient way if you want to talk ✌️
+# Yurii Boltukov
+## React developer
+
+Frontend Engineer with experience in developing websites using web technologies.
+
+Skilled in JavaScript, TypeScript, React, Redux, RxJs, HTML, CSS.
+My English level elementary.
+
+---
 
 ### My contacts
 * tel: +7 966 749 05 02
 * e-mail: mr.kolomiha@bk.ru
 * telegram: @YuriiBol
 * whatsApp: +7 966 749 05 02
-
----
-
-  <a href="https://github.com/YuriiBoltukov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiBoltukov&layout=compact&theme=default&hide_border=true" /></a> 
 
 
 ---
@@ -36,7 +37,25 @@ A JavaScript developer. I love building applications & discussing technology. Co
 
 ### Experience:
 
-#### I have experience as a React developer through an internship.
+__Company Terra__
+
+
+   Position: Frontend developer
+
+   Worked on multiple projects with the same technology stack with different teams.
+
+   - Development of client web applications (React)
+   - Requirements analysis
+   - Planning of terms
+   - Code review
+
+  Technologies used:
+    - JavaScript, HTML и CSS
+    - Typescript
+    - React, Redux
+    - RxJs
+    - Highcharts, Figma, Git (GitLab)
+
 
 ---
 
@@ -44,15 +63,11 @@ A JavaScript developer. I love building applications & discussing technology. Co
 
 Educational institution                         | Course                              | Completed year
 ------------------------------------------------|:------------------------------------|:--------------: 
-Krasnodar College of Electronic Instrumentation | Information systems and programming | 2023
+Krasnodar College of Electronic Instrumentation | Information systems and programming | 2022
 Netology                                        | React                               | 2022
-RSSchool                                        |   JS/FE Pre-School                  | 2022
+RSSchool                                        | JS/FE Pre-School                    | 2022
 Chelyabinsk State Academy of Culture and Arts   | Culturology                         | 2008
-
-### My English level elementary
-
-Result of [Epam-quiz] is 41%
 
 ---
 
-[Epam-quiz]: https://www.qzzr.com/c/quiz/477824/quick-english-grammar-quiz-copy
+  <a href="https://github.com/YuriiBoltukov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiBoltukov&layout=compact&theme=default&hide_border=true" /></a> 
