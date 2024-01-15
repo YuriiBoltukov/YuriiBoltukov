@@ -52,6 +52,7 @@ __Webtu__
    - Code review
 
   Technologies used:
+  
     - JavaScript, HTML и CSS
     - Typescript
     - React, Redux
