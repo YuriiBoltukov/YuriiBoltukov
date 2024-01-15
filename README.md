@@ -52,10 +52,9 @@ __Webtu__
    - Code review
 
   Technologies used:
-  
-    - JavaScript, HTML и CSS
-    - Typescript
-    - React, Redux
-    - Vue.js
-    - RxJs
-    - Highcharts, Figma, Git (GitLab)
+   - JavaScript, HTML и CSS
+   - Typescript
+   - React, Redux
+   - Vue.js
+   - RxJs
+   - Highcharts, Figma, Git (GitLab)
