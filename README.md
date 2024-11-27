@@ -35,26 +35,3 @@ My English level B1.
 </div>
 
 ---
-
-### Experience:
-
-__Webtu__
-
-
-   Position: Frontend developer
-
-   Worked on multiple projects with the same technology stack with different teams.
-
-   - Development of client web applications (React)
-   - Development of mobile application (Vue.js)
-   - Requirements analysis
-   - Planning of terms
-   - Code review
-
-  Technologies used:
-   - JavaScript, HTML и CSS
-   - Typescript
-   - React, Redux
-   - Vue.js
-   - RxJs
-   - Highcharts, Figma, Git (GitLab)
