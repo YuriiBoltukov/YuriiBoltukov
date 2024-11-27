@@ -14,10 +14,8 @@ My English level B1.
 ---
 
 ### My contacts
-* tel: +995 595 991 028
 * e-mail: yurii.boltukov@gmail.com
 * telegram: @YuriiBol
-* whatsApp: +995 595 991 028
 
 
 ---
